@@ -8,6 +8,7 @@
 @import url('./vite-promo.css');
 @import url('./header.css');
 @import url('./vic-part.css');
+@import url('./vic-modal.css');
 
 :root {
   font-family: Inter, Avenir, Helvetica, Arial, sans-serif;
